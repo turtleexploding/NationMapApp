@@ -1,0 +1,32 @@
+Terms of Service for Nation Map
+
+Effective Date: 01/03/2025
+
+1. Acceptance of Terms
+By using Nation Map, you agree to comply with these Terms of Service. If you do not agree with any part of these terms, you may not use the bot.
+
+2. Usage Guidelines
+Nation Map is provided for informational and entertainment purposes within Discord. Users must adhere to the following:
+
+- Do not use the bot for illegal or malicious activities.
+
+- Do not attempt to exploit or disrupt the bot’s functionality.
+
+- Respect Discord’s Terms of Service and Community Guidelines.
+
+3. Data Collection and Privacy
+Nation Map does not collect or store personal data. The only data logged is command parameters in the event of an error, as outlined in our Privacy Policy.
+
+4. Service Availability
+We strive to keep Nation Map operational, but we do not guarantee uninterrupted service. The bot may experience downtime due to maintenance, updates, or unforeseen issues.
+
+5. Liability Disclaimer
+Nation Map is provided "as is" without warranties of any kind. We are not responsible for any damages, losses, or issues arising from the use of the bot.
+
+6. Changes to Terms
+We reserve the right to update these Terms of Service at any time. Continued use of Nation Map after changes are posted constitutes acceptance of the revised terms.
+
+7. Contact Information
+For any questions or concerns regarding these Terms of Service, please contact the bot developer via Discord.
+
+Thank you for using Nation Map!
